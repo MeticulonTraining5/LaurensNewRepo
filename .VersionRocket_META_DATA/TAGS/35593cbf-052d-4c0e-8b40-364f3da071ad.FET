@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>35593cbf-052d-4c0e-8b40-364f3da071ad</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>MawileJPG_NotForDelete.jpg</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\admin\Documents\VersionRocket Repositories\LaurensNewRepo</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>List</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>fd6d2147-f969-47cb-ad68-d095966d20d1</guid>
+    <guid>0e71573c-a040-4003-90c9-baabf2498708</guid>
+  </Tags>
+</FolderEntryTags>
