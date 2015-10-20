@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>ff7d3e8b-5b02-4acd-ac59-8f811484cfe2</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>WordTester_DoNotDelete.docx</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\admin\Documents\VersionRocket Repositories\LaurensNewRepo</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>List</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>32c0716c-55a0-4417-a073-4f4e1cbc59fd</guid>
+  </Tags>
+</FolderEntryTags>
