@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>1882d8b4-3ec2-4d95-8452-a3e6ef135ce0</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>ExcelTest_DoNotDelete.xlsx</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\admin\Documents\VersionRocket Repositories\LaurensNewRepo</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>32c0716c-55a0-4417-a073-4f4e1cbc59fd</guid>
+  </Tags>
+</FolderEntryTags>
